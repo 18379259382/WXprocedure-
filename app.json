@@ -1,0 +1,17 @@
+{
+  "pages":[
+        "pages/logs/logs"
+
+  ],
+  "window": {
+
+
+        "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#087ae8",
+    "navigationBarTitleText": "主页",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": false
+  }
+
+
+}

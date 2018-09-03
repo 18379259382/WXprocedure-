@@ -1,0 +1,3 @@
+<button bindtap='_text'>点击</button>
+<dialog id='dialog' title='{{DialogTitle}}' content='{{DialogMessage}}' cancelText='{{cancel}}' confirm='{{firm}}' years="{{years}}" months="{{months}}" days="{{days}}" bind:myevent="_cancelEvent"   bind:myevents="_cancelEvents">
+</dialog>
